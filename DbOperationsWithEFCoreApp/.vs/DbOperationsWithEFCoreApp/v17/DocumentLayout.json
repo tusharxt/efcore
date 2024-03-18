@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\src\\efcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\src\\efcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:14:52.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmployeeClass.cs",
               "DocumentMoniker": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\EmployeeClass.cs",
               "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\EmployeeClass.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DbOperationsWithEFCoreApp.csproj",
               "DocumentMoniker": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj",
               "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
               "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Program.cs",
               "ToolTip": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
               "RelativeToolTip": "DbOperationsWithEFCoreApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABQwBEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T08:30:44.887Z",
               "EditorCaption": ""

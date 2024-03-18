@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\src\\efcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\src\\efcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\src\\efcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\dboperationswithefcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\dboperationswithefcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\src\\efcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB81E03C-C161-4A11-8940-91400C7B6C83}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeClass.cs",
+              "DocumentMoniker": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\EmployeeClass.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\EmployeeClass.cs",
+              "ToolTip": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\EmployeeClass.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\EmployeeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:01:54.577Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -35,20 +52,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
               "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Program.cs",
               "ToolTip": "C:\\src\\efcore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
               "RelativeToolTip": "DbOperationsWithEFCoreApp\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T08:30:44.887Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
